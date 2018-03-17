@@ -22,7 +22,9 @@ public class Animals implements java.io.Serializable {
 	}
 
 	public Animals(String name) {
-		this.name = name;
+	//	this.name = name;
+	
+	
 	}
 
 	@Id
