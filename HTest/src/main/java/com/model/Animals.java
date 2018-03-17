@@ -21,6 +21,9 @@ public class Animals implements java.io.Serializable {
 	public Animals() {
 	
 	
+	
+	
+	
 	}
 
 	public Animals(String name) {
